@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, 
+
+my name is Alen, and I'm currently working on my master's degree in informatics at Faculty of Organization and Informatics in Varaždin. While I'm focused on finishing my degree, I'm interested in web technologies and trying to expand my knowledge even outside of university. I'm currently learning Java, more specifically Spring, and some of my progress can be found on my GitHub profile @asankovic. 😄
 
 <!--
 **asankovic/asankovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
