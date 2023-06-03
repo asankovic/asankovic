@@ -1,6 +1,10 @@
-### Hi there 👋, 
+### Hi there  👋, 
 
-my name is Alen, and I'm currently working on my master's degree in informatics at Faculty of Organization and Informatics in Varaždin. While I'm focused on finishing my degree, I'm interested in web technologies and trying to expand my knowledge even outside of university. I'm currently learning Java, more specifically Spring Framework, and some of my progress can be found on my GitHub profile [@asankovic](https://github.com/asankovic "My profile"). 😄
+my name is Alen, and I'm currently working as a Java/SAP CX developer at IBM iX.
+
+I have finished my master's degree in informatics at Faculty of Organization and Informatics in Varaždin with my master's thesis about microservice architecture and it's implementation using Spring Cloud. This got me interested into microservices and in my free time, I'm trying to learn and expand my knoweledge even outside the Java world. 
+
+I'm currently stepping into the JavaScript world and trying out things like Node.js, Typescript, and Nest.js. You can find some of my progress on my GitHub profile [@asankovic](https://github.com/asankovic "My profile"). :v:
 
 <!--
 **asankovic/asankovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
