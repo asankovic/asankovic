@@ -1,10 +1,10 @@
 ### Hi there  👋, 
 
-my name is Alen, and I'm currently working as a Java/SAP CX developer at IBM iX.
+my name is Alen, and I'm currently working as a Software engineer.
 
 I have finished [my master's](https://dabar.srce.hr/islandora/object/foi%3A7501) degree in informatics at Faculty of Organization and Informatics in Varaždin with my master's thesis about microservice architecture and it's implementation using Spring Cloud. This got me interested into microservices and in my free time, I'm trying to learn and expand my knowledge even outside the Java world. 
 
-I like learning new things, and some of the latest stuff I've been trying out have been related to JavaScript (Node.js/TypeScript/Nest.js), Golang, and (currently) Bash.
+I like learning new things, and some of the latest stuff I've been trying out have been related to JavaScript (Node.js/TypeScript/Nest.js/Angular) as well as cloud oriented technologies like Kubernetes and AWS.
 You can find some of my progress on my GitHub profile [@asankovic](https://github.com/asankovic "My profile"). :v:
 
 <!--
